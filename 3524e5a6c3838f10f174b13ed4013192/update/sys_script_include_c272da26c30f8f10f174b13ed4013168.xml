@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1365217_wish_l_0.testing 2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>testing 2</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var testing_2 = Class.create();
+testing_2.prototype = {
+    initialize: function() {
+    },
+
+    type: 'testing_2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 21:25:37</sys_created_on>
+        <sys_id>c272da26c30f8f10f174b13ed4013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testing 2</sys_name>
+        <sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope>
+        <sys_update_name>sys_script_include_c272da26c30f8f10f174b13ed4013168</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 21:25:37</sys_updated_on>
+    </sys_script_include>
+</record_update>
