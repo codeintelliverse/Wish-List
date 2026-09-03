@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="item" table="x_1365217_wish_l_0_wish_list">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Item</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>item</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>127</max_length>
+        <name>x_1365217_wish_l_0_wish_list</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 18:13:36</sys_created_on>
+        <sys_id>6c96edaec3838f10f174b13ed4013157</sys_id>
+        <sys_name>Item</sys_name>
+        <sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope>
+        <sys_update_name>sys_dictionary_x_1365217_wish_l_0_wish_list_item</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 18:17:44</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</application>
+        <file_path/>
+        <instance_id>e1bc317ffb1b1658843df4344eefdc7c</instance_id>
+        <instance_name>dev294865</instance_name>
+        <name>sys_dictionary_x_1365217_wish_l_0_wish_list_item</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="item" table="x_1365217_wish_l_0_wish_list"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Item</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>item</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>true</mandatory><max_length>127</max_length><name>x_1365217_wish_l_0_wish_list</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>Syeda</sys_created_by><sys_created_on>2026-09-03 18:13:36</sys_created_on><sys_id>6c96edaec3838f10f174b13ed4013157</sys_id><sys_name>Item</sys_name><sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package><sys_policy/><sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope><sys_update_name>sys_dictionary_x_1365217_wish_l_0_wish_list_item</sys_update_name><sys_updated_by>Syeda</sys_updated_by><sys_updated_on>2026-09-03 18:17:44</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1440497010</payload_hash>
+        <record_name>Wish Item.Item</record_name>
+        <reverted_from/>
+        <source>f92429a6c3838f10f174b13ed401312e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 18:17:45</sys_created_on>
+        <sys_id>4587a9a2c3c38f10f174b13ed401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0687db9cc0000001</sys_recorded_at>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 18:17:45</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>0587a9a263c38f107adc07c4a15c6f0c</update_guid>
+        <update_guid_history>0587a9a263c38f107adc07c4a15c6f0c:-1440497010,32f669228ec38f100ad29010b522ad52:-1017539956,b6f66922fec38f1032424ff6e6aa2f37:1234301877,f49621ee1a838f10c398808faf81388e:-1017539956,f49621ee19838f10912c90d2831e726d:1234301877,e496edaef7838f108d4db57b4220efb9:236514121</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 18:24:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>06ccc3b7fa8d446c802e615fe4b5fe90</sys_id>
+        <sys_metadata>6c96edaec3838f10f174b13ed4013157</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item</sys_name>
+        <sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package>
+        <sys_parent display_value="">678565eac3838f10f174b13ed4013193</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope>
+        <sys_scope_delete display_value="">198a22823f98408886ffab7b7f500f04</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1365217_wish_l_0_wish_list_item</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1365217_wish_l_0_wish_list_item">4587a9a2c3c38f10f174b13ed401310d</sys_update_version>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 18:24:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

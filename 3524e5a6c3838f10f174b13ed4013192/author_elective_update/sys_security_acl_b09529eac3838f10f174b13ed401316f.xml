@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1365217_wish_l_0_wish_list</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 18:09:16</sys_created_on>
+        <sys_id>b09529eac3838f10f174b13ed401316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1365217_wish_l_0_wish_list</sys_name>
+        <sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope>
+        <sys_update_name>sys_security_acl_b09529eac3838f10f174b13ed401316f</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 18:09:16</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</application>
+        <file_path/>
+        <instance_id>e1bc317ffb1b1658843df4344eefdc7c</instance_id>
+        <instance_name>dev294865</instance_name>
+        <name>sys_security_acl_b09529eac3838f10f174b13ed401316f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1365217_wish_l_0_wish_list</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>Syeda</sys_created_by><sys_created_on>2026-09-03 18:09:16</sys_created_on><sys_id>b09529eac3838f10f174b13ed401316f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1365217_wish_l_0_wish_list</sys_name><sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package><sys_policy/><sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope><sys_update_name>sys_security_acl_b09529eac3838f10f174b13ed401316f</sys_update_name><sys_updated_by>Syeda</sys_updated_by><sys_updated_on>2026-09-03 18:09:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>278927871</payload_hash>
+        <record_name>x_1365217_wish_l_0_wish_list</record_name>
+        <reverted_from/>
+        <source>f92429a6c3838f10f174b13ed401312e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 18:09:16</sys_created_on>
+        <sys_id>899529eac3838f10f174b13ed40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a06875f88e0000001</sys_recorded_at>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 18:09:16</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>499529ead9838f1087bc253c06fed4d2</update_guid>
+        <update_guid_history>499529ead9838f1087bc253c06fed4d2:278927871</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 18:24:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>08052cb2e19c4034a670f41532d5ef89</sys_id>
+        <sys_metadata>b09529eac3838f10f174b13ed401316f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1365217_wish_l_0_wish_list</sys_name>
+        <sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package>
+        <sys_parent display_value="">ef8565eac3838f10f174b13ed4013196</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope>
+        <sys_scope_delete display_value="">198a22823f98408886ffab7b7f500f04</sys_scope_delete>
+        <sys_update_name>sys_security_acl_b09529eac3838f10f174b13ed401316f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_b09529eac3838f10f174b13ed401316f">899529eac3838f10f174b13ed40131d3</sys_update_version>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-03 18:24:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
