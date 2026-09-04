@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1365217_wish_l_0.Testing commit change</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>testing</description>
+        <mobile_callable>false</mobile_callable>
+        <name>Testing commit change</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var Testing_commit_change = Class.create();
+ alert('testing');
+GetEmailAddress.prototype = Object.extendsObject(global.AbstractAjaxProcessor),{
+getEmail: function() {
+    var userRecord = new GlideRecord("sys_user");
+    userRecord.get(this.getParameter('sysparm_userID'));
+    return userRecord.email + '';
+ 
+},
+	
+	
+    type: 'Testing_commit_change'
+
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-03 21:14:12</sys_created_on>
+        <sys_id>4bdf422ec3cb8f10f174b13ed4013161</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Testing commit change</sys_name>
+        <sys_package display_value="Wish List" source="x_1365217_wish_l_0">3524e5a6c3838f10f174b13ed4013192</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Wish List">3524e5a6c3838f10f174b13ed4013192</sys_scope>
+        <sys_update_name>sys_script_include_4bdf422ec3cb8f10f174b13ed4013161</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-04 11:10:28</sys_updated_on>
+    </sys_script_include>
+</record_update>
